@@ -1,0 +1,59 @@
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\bin\debug\AURFIDReader.exe
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\bin\debug\AURFIDReader.pdb
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\bin\debug\Symbol.RFID3.Host.dll
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\bin\debug\Symbol.RFID3.Host.xml
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.AppForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.BlockEraseForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.CapabilitiesForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.ConnectionForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.HelpForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.KillForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.LockForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.Properties.Resources.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.ReadForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.TagDataForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.WriteForm.resources
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.csproj.GenerateResource.Cache
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.exe
+C:\Users\mkc0017\Documents\Visual Studio 2008\Projects\SAMPLES05\C#\AURFIDReader\obj\Debug\AURFIDReader.pdb
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.exe
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.pdb
+C:\Users\mkc0017\Desktop\AURFIDReader\bin\debug\AURFIDReader.exe
+C:\Users\mkc0017\Desktop\AURFIDReader\bin\debug\AURFIDReader.pdb
+C:\Users\mkc0017\Desktop\AURFIDReader\bin\debug\Symbol.RFID3.Host.dll
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.AppForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.BlockEraseForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.CapabilitiesForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.ConnectionForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.HelpForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.KillForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.LockForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.Properties.Resources.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.ReadForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.TagDataForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.WriteForm.resources
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.csproj.GenerateResource.Cache
+C:\Users\mkc0017\Desktop\AURFIDReader\bin\debug\AURFIDReader.exe.manifest
+C:\Users\mkc0017\Desktop\AURFIDReader\bin\debug\AURFIDReader.application
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.exe.manifest
+C:\Users\mkc0017\Desktop\AURFIDReader\obj\Debug\AURFIDReader.application
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.exe
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.pdb
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\bin\debug\AURFIDReader.exe
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\bin\debug\AURFIDReader.pdb
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\bin\debug\Symbol.RFID3.Host.dll
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.AppForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.BlockEraseForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.CapabilitiesForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.ConnectionForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.HelpForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.KillForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.LockForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.Properties.Resources.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.ReadForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.TagDataForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.WriteForm.resources
+C:\Users\azt0054\Downloads\AURFIDReader_src\AURFIDReader\obj\Debug\AURFIDReader.csproj.GenerateResource.Cache
